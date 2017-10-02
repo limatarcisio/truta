@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+	background-color: #00f;
+	color: red;
+}
+#matheus{
+	height: 350px;
+	width: 400px;
+}
+.teteu{
+	text-align: center;
+}
+.facebook{
+	height: 100px;
+	width: 100px;
+}
+.whatsapp{
+	height: 100px;
+    width:  100px;
+}
+
